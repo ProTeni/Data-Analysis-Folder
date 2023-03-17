@@ -3,14 +3,14 @@ author:
   name: "Tenifayo"
   email: "kojusoluwaolutade@gmail.com"
 description: "Curious gig"
-remote_theme: jekyll/cayman
-minima:
-  skin: dark
+skin: dark
 header_pages:
   - about.md
   - portfolio.md
- minima:
-  social_links:
+ social_links:
     - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
     - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
+ google_analytics: G-EJS984QHQ4
+ remote_theme: jekyll/cayman
+
  
