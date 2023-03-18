@@ -2,7 +2,6 @@ This is a compilation of all my data projects
 
 # [Project 1: DVD Rental](https://github.com/ProTeni/SQL_Projects.me/blob/main/README.md)
 
-
 ![](https://github.com/ProTeni/Data-Analysis-Folder/blob/main/Images/DVD_rental_machine.jpg)
 
 
