@@ -1,5 +1,5 @@
-title: Teni Data Analyst
-description: This is a compilation of all my data projects
+title: [Teni Data Analyst]
+description: [This is a compilation of all my data projects]
 show_downloads: true
 google_analytics: G-EJS984QHQ4
 theme: jekyll-theme-cayman
@@ -14,3 +14,5 @@ github:
 
 
 * Analysed the data from a DVD Rental to boost customer experience, award staff performance, and help the management make informed decisions around the operations of the rental business *
+
+
