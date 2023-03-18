@@ -1,5 +1,4 @@
 
-
 # [Project 1: DVD Rental](https://github.com/ProTeni/SQL_Projects.me/blob/main/DVD_Rentals.md)
 
 
