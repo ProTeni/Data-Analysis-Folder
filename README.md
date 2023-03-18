@@ -1,5 +1,5 @@
-title: Tenifayo- Data Analyst
-description:This is a compilation of all my data projects
+title: Teni Data Analyst
+description: This is a compilation of all my data projects
 show_downloads: true
 google_analytics: G-EJS984QHQ4
 theme: jekyll-theme-cayman
