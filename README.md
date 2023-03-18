@@ -1,11 +1,4 @@
-title: [Teni Data Analyst]
-description: [This is a compilation of all my data projects]
-show_downloads: true
-google_analytics: G-EJS984QHQ4
-theme: jekyll-theme-cayman
-github:
-  zip_url: http://example.com/download.zip
-  another_url: another value
+
 
 # [Project 1: DVD Rental](https://github.com/ProTeni/SQL_Projects.me/blob/main/DVD_Rentals.md)
 
