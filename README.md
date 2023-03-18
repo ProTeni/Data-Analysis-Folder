@@ -1,7 +1,7 @@
 
 # Welcome to my Data Analysis Portfolio!
 
-## [Project 1: DVD Rental](https://github.com/ProTeni/SQL_Projects.me/blob/main/DVD_Rentals.md)
+## [SQL Projects](https://github.com/ProTeni/Data-Analysis-Folder/blob/main/another-page.md)
 
 
 ![](https://github.com/ProTeni/Data-Analysis-Folder/blob/main/Images/DVD_rental_machine.jpg)
